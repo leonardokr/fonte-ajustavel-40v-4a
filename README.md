@@ -1,6 +1,8 @@
 # Fonte Ajustável 0-40V e 2mA-4A
 Fonte de bancada DC ajustável de 0-40V e 2mA-4A com circuito de estabilização.
 
+![GitHub All Releases](https://img.shields.io/github/downloads/leonardokr/fonte-ajustavel-40v-4a/total)
+
 Características:
 - Controles de ajustes analógicos (com ajuste fino)
 - Regulador LM723 e comparadores utilizando LM741
