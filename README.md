@@ -16,6 +16,9 @@ Características:
 Projetos esquemáticos e de layout de placas desenvolvidos em Eagle 9.2.0 e Fusion 360.
 Bibliotecas personalizadas de produtos genéricos/equivalentes fornecidas no repositório.
 
+###### Bibliotecas personalizadas
+* [Conectores KRE](https://github.com/leonardokr/eagle-bibliotecas-3d) - Conectores utilizados na placa para facilitar montagem e manutenção
+
 ###### Material de apoio:
 <a href="https://www.youtube.com/watch?v=1b0n3vxaOhg"><img height="28px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/youtube.svg"></a>
 O que é um shunt e como dimensionar
