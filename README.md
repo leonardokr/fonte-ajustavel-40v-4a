@@ -4,6 +4,8 @@ Fonte de bancada DC ajustável de 0-40V e 2mA-4A com circuito de estabilização
 ![GitHub All Releases](https://img.shields.io/github/downloads/leonardokr/fonte-ajustavel-40v-4a/total)
 
 Características:
+- Display HT1621 para mostrar grandezas
+- Medidor de grandezas com ATMEGA328P para fácil modificação/upgrade (controle de LED para case acrílico, por exemplo)
 - Controles de ajustes analógicos (com ajuste fino)
 - Regulador LM723 e comparadores utilizando LM741
 - É possível utilizá-la para testar diodos Zener
